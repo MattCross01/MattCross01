@@ -62,7 +62,7 @@
      <img alt="Auth0" src="https://img.shields.io/badge/Auth0-20232A?style=for-the-badge&logo=Auth0&logoColor=Red" />
 </p>
 
-- 🌱  I’m currently looking for a Full Stack or Front-end web development job!
+- 🌱  I’m currently looking for a UI/UX Software Development job!
 - 💬  Ask me about Video Games!
 - ⚡  Fun fact: Theres not really any. IU get up, go to work, come home, go to sleep, repeat!
 <br>  
