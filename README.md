@@ -65,4 +65,11 @@
 - 🌱  I’m currently looking for a Full Stack or Front-end web development job!
 - 💬  Ask me about Video Games!
 - ⚡  Fun fact: Theres not really any. IU get up, go to work, come home, go to sleep, repeat!
-<br> 
+<br>  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattCross01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattCross01&layout=compact&langs_count=10&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachinjapan&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
