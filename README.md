@@ -64,7 +64,7 @@
 
 - 🌱  I’m currently looking for a UI/UX Software Development job!
 - 💬  Ask me about Video Games!
-- ⚡  Fun fact: Theres not really any. IU get up, go to work, come home, go to sleep, repeat!
+- ⚡  Fun fact: Theres not really any. I get up, go to work/code, come home, go to sleep, repeat! :D
 <br>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattCross01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
