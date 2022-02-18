@@ -1,9 +1,6 @@
 # Hey Everyone! 👋 I'm Matt!
 
 
-<a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/CliffordMorin/badges/large" alt="codewars badge small" /></a>
-
-
 ## Experience:
 <!--  HTML / CSS / BOOTSTRAP / Javascript / SASS / NodeJS / Express / React / MongoDB -->
 
