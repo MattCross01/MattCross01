@@ -63,6 +63,6 @@
 </p>
 
 - 🌱  I’m currently looking for a Full Stack or Front-end web development job!
-- 💬  Ask me about Snowboarding!
-- ⚡  Fun fact: I am also a Multi-Instrumentalist and have been playing music professionally for 10 years all around the world!
+- 💬  Ask me about Video Games!
+- ⚡  Fun fact: Theres not really any. IU get up, go to work, come home, go to sleep, repeat!
 <br> 
