@@ -1,10 +1,21 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
+
 # Hey Everyone! 👋 I'm Matt!
 
 
 ## Experience:
 <!--  HTML / CSS / BOOTSTRAP / Javascript / SASS / NodeJS / Express / React / MongoDB -->
 
-#### Frontend
+#### Front-end
 
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -62,10 +73,6 @@
      <img alt="Auth0" src="https://img.shields.io/badge/Auth0-20232A?style=for-the-badge&logo=Auth0&logoColor=Red" />
 </p>
 
-- 🌱  I’m currently looking for a UI/UX Software Development job!
-- 💬  Ask me about Video Games!
-- ⚡  Fun fact: Theres not really any. I get up, go to work/code, come home, go to sleep, repeat! :D
-<br>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattCross01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
