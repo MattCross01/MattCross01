@@ -1,4 +1,4 @@
-  <h1>
+  <h1 align="center>
  👀 Hey there, welcome to my profile! 👋
 </h1>
 
