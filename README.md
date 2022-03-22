@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=Matt-Cross-01" align="center"/>
 
   <h1>
-  Hey there, welcome to my profile!
+ 👀 Hey there, welcome to my profile! 👋
 </h1>
 </div>
 
