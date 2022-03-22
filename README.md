@@ -14,7 +14,8 @@
   </a>
   <h1>
   Hey there, welcome to my profile!
-  <img src=https://komarev.com/ghpvc/?MattCross01 = GitHub_Username align="center" width="30px"/>
+    <img src=https://komarev.com/ghpvc/?mattcross01>
+
 </h1>
 </div>
 
