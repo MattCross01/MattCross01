@@ -12,7 +12,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/MattCross01)
+<img src=https://komarev.com/ghpvc/?MattCross01/>
 
   <h1>
   Hey there, welcome to my profile!
