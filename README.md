@@ -12,9 +12,10 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src=https://komarev.com/ghpvc/?MattCross01 = GitHub_Username/>
+
   <h1>
   Hey there, welcome to my profile!
-    <img src=https://komarev.com/ghpvc/?mattcross01>
 
 </h1>
 </div>
