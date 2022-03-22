@@ -12,7 +12,8 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=Matt-Cross-01"/>
+  <br>
+<img src="https://komarev.com/ghpvc/?username=Matt-Cross-01" align="center/>
 
   <h1>
   Hey there, welcome to my profile!
