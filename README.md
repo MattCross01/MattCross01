@@ -1,3 +1,8 @@
+  <h1>
+ 👀 Hey there, welcome to my profile! 👋
+</h1>
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -15,9 +20,7 @@
   <br>
 <img src="https://komarev.com/ghpvc/?username=Matt-Cross-01" align="center"/>
 
-  <h1>
- 👀 Hey there, welcome to my profile! 👋
-</h1>
+
 </div>
 
 
