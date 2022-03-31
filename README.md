@@ -24,10 +24,10 @@
 </div>
 
 
-## Experience:
+<h2 align="center">Experience:</h2>
 <!--  HTML / CSS / BOOTSTRAP / Javascript / SASS / NodeJS / Express / React / MongoDB -->
 
-#### Front-end
+<h2 align="center">Front-End:</h2>
 
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -44,7 +44,7 @@
 
  
  
- #### Back-end
+<h2 align="center">Back-end:</h2>
  
  <p align="center">
   <img alt="NodeJS" src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -57,7 +57,7 @@
 
   
   
-#### Frameworks
+<h2 align="center">Frameworks:</h2>
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -67,19 +67,19 @@
  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
 </p>
 
-#### Cloud
+<h2 align="center">Cloud:</h2>
 
 <p align="center">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
 
-#### Design
+<h2 align="center">Design:</h2>
 
 <p align="center">
      <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </p>
 
-#### Authentication
+<h2 align="center">Authentication:</h2>
 
 <p align="center">
      <img alt="Auth0" src="https://img.shields.io/badge/Auth0-20232A?style=for-the-badge&logo=Auth0&logoColor=Red" />
