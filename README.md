@@ -87,12 +87,10 @@
 <br>
 <br>
 
-<div align="center">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MattCross01&theme=blue-green)
 
-<div align="center">
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MattCross01&theme=blue-green)
-</div>
-  </div>
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachinjapan&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
