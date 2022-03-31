@@ -84,11 +84,13 @@
 <p align="center">
      <img alt="Auth0" src="https://img.shields.io/badge/Auth0-20232A?style=for-the-badge&logo=Auth0&logoColor=Red" />
 </p>
+<br>
+<br>
 
-
+<div align="center">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MattCross01&theme=blue-green)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MattCross01&theme=blue-green)
-
+</div>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachinjapan&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
