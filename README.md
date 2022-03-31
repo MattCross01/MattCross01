@@ -29,7 +29,7 @@
 
 #### Front-end
 
-<p>
+<p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -46,7 +46,7 @@
  
  #### Back-end
  
- <p>
+ <p align="center">
   <img alt="NodeJS" src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img alt="Express" src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="MySQL" src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -59,7 +59,7 @@
   
 #### Frameworks
 
-<p>
+<p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <!--   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white&style=flat" /> -->
 <img alt="React Router Dom" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
@@ -69,19 +69,19 @@
 
 #### Cloud
 
-<p>
+<p align="center">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </p>
 
 #### Design
 
-<p>
+<p align="center">
      <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </p>
 
 #### Authentication
 
-<p>
+<p align="center">
      <img alt="Auth0" src="https://img.shields.io/badge/Auth0-20232A?style=for-the-badge&logo=Auth0&logoColor=Red" />
 </p>
 
