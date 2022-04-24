@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/matthew-cross-604a98203/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://youtube.com/channel/UC6WWAGd6EROIGOmrfXwc3VQ">
+  <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <br>
