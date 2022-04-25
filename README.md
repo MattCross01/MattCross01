@@ -22,7 +22,6 @@
 
 
 <h1 align="center">Experience:</h1>
-<!--  HTML / CSS / BOOTSTRAP / Javascript / SASS / NodeJS / Express / React / MongoDB -->
 
 <h3 align="center">Front-End:</h3>
 
