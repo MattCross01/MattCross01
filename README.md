@@ -52,7 +52,6 @@
   </p>
 
   
-  
 <h3 align="center">Frameworks:</h3>
 
 <p align="center">
