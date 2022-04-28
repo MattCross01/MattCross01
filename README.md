@@ -20,7 +20,6 @@
 
 </div>
 
-
 <h1 align="center">Experience:</h1>
 
 <h3 align="center">Front-End:</h3>
