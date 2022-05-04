@@ -49,7 +49,6 @@
   <img alt="insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white">
   </p>
 
-  
 <h3 align="center">Frameworks:</h3>
 
 <p align="center">
