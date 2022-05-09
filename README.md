@@ -36,8 +36,6 @@
  <img alt="materialize.css" src="https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white">
  </p>
 
- 
- 
 <h3 align="center">Back-end:</h3>
  
  <p align="center">
